@@ -32,4 +32,4 @@ See [Github's Help](https://help.github.com/articles/transferring-a-repository-o
 
 Log into Github and go to your profile page:
 
-![OWASP Github Transfer - image 01]( "Go to your profile page on Github")
+![OWASP Github Transfer - image 01](https://github.com/OWASP/owasp-projects-redux/raw/master/github-org/images/owasp-github-transfer-01.png "Go to your profile page on Github")
