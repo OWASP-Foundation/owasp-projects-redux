@@ -33,3 +33,39 @@ See [Github's Help](https://help.github.com/articles/transferring-a-repository-o
 Log into Github and go to your profile page:
 
 ![OWASP Github Transfer - image 01](https://github.com/OWASP/owasp-projects-redux/raw/master/github-org/images/owasp-github-transfer-01.png "Go to your profile page on Github")
+
+During the Slack meeting, you'll get an email inviting you to the OWASP org
+
+![OWASP Github Transfer - image 02](https://github.com/OWASP/owasp-projects-redux/raw/master/github-org/images/owasp-github-transfer-02.png "Email invite to the OWASP Github org")
+
+Clikcing on that link will take you to Github's invitation page
+
+![OWASP Github Transfer - image 03](https://github.com/OWASP/owasp-projects-redux/raw/master/github-org/images/owasp-github-transfer-03.png "Github page inviting you to the OWASP org")
+
+After you accept the invitiation, you'll be forwarded to the OWASP org page
+
+![OWASP Github Transfer - image 04](https://github.com/OWASP/owasp-projects-redux/raw/master/github-org/images/owasp-github-transfer-04.png "Github page welcoming you to the OWASP org")
+
+Browse (or re-browse) to the repo you are transfering
+
+![OWASP Github Transfer - image 05](https://github.com/OWASP/owasp-projects-redux/raw/master/github-org/images/owasp-github-transfer-05.png "Go to the repo you are transfering")
+
+Click on the settings tab and scroll to the bottom to the **"Danger Zone"** - do not click "Transfer" yet
+
+![OWASP Github Transfer - image 06](https://github.com/OWASP/owasp-projects-redux/raw/master/github-org/images/owasp-github-transfer-06.png "Under the settings tab, scroll to the Danger Zone - no clicking yet")
+
+Once OWASP staff says things are ready, click on "Transfer" and fill out the window that opens
+
+![OWASP Github Transfer - image 07](https://github.com/OWASP/owasp-projects-redux/raw/master/github-org/images/owasp-github-transfer-07.png "Click Transfer and fill out the window that pops up")
+
+You will be forwaded to a page about Team access, just click "Transfer" - you can always do team creation, membership, etc in the future.
+
+![OWASP Github Transfer - image 08](https://github.com/OWASP/owasp-projects-redux/raw/master/github-org/images/owasp-github-transfer-08.png "You can skip Team access for now")
+
+That's it, your repo will now be part of the OWASP Github org.  **Congrats!**
+
+
+
+
+
+
