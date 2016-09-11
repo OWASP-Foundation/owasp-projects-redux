@@ -27,10 +27,10 @@ Below are the steps required to get an existing repo listed in the OWASP Github 
 
 See [Github's Help](https://help.github.com/articles/transferring-a-repository-owned-by-your-personal-account/#transferring-to-an-organization) for more information on transfering repos to an organization
 
-### Visual version of Transfering a repo to OWASP's Github org
+### Visual version of transfering a repo to OWASP's Github org
 
 
-Log into Github and go to your profile page:
+Log into Github and go to your profile page
 
 ![OWASP Github Transfer - image 01](https://github.com/OWASP/owasp-projects-redux/raw/master/github-org/images/owasp-github-transfer-01.png "Go to your profile page on Github")
 
