@@ -10,6 +10,17 @@ Below are the steps required to get an existing repo listed in the OWASP Github 
 * An account on OWASP's Slack 
   * If not, register your email address [here](http://owasp.herokuapp.com/)
 
+#### Known issues
+
+* Heavily integrated projects will have some of those integrations break and will need some reconfiguring/fixing
+* Reported working integrations
+** [Travis CI](https://travis-ci.org/)
+** Github Stars, Forks, Watches, Collaborators...
+* Reported failing integrations
+** [HuBoard](https://huboard.com/) - reported to have a 'Fix All' button for this situation
+** [Gemnasium](https://gemnasium.com/0
+** [DockerHub](https://hub.docker.com/)
+
 ### Transfering to OWASP's Github Organization
 
 1. Setup a time with OWASP staff to meet on Slack
