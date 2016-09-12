@@ -18,7 +18,7 @@ Below are the steps required to get an existing repo listed in the OWASP Github 
   * Github Stars, Forks, Watches, Collaborators...
 * Reported failing integrations
   * [HuBoard](https://huboard.com/) - reported to have a 'Fix All' button for this situation
-  * [Gemnasium](https://gemnasium.com/0
+  * [Gemnasium](https://gemnasium.com/)
   * [DockerHub](https://hub.docker.com/)
 
 ### Transfering to OWASP's Github Organization
