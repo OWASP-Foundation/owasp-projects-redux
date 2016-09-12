@@ -20,6 +20,16 @@ Below are the steps required to get an existing repo listed in the OWASP Github 
   * [HuBoard](https://huboard.com/) - reported to have a 'Fix All' button for this situation
   * [Gemnasium](https://gemnasium.com/)
   * [DockerHub](https://hub.docker.com/)
+* Untested/unknown integrations
+  * [Heroku](https://www.heroku.com/)
+  * [Gitter.im](https://gitter.im/)
+  * [Wakatime](https://wakatime.com/)
+  * [Nodesecurity.io](https://nodesecurity.io/)
+  * [Appveyor](https://www.appveyor.com/)
+  * [Versioneye](https://www.versioneye.com/)
+  * [Amazon SNS](https://aws.amazon.com/sns/)
+  * [Codeclimate](https://codeclimate.com/)
+  * [Bountysource](https://www.bountysource.com/)
 
 ### Transfering to OWASP's Github Organization
 
