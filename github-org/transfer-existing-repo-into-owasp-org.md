@@ -40,6 +40,7 @@ Below are the steps required to get an existing repo listed in the OWASP Github 
     1. A couple of times you are free and your timezone e.g. GMT-6
     1. Your Github username
     1. The name of your Github repo to transfer
+    1. The URL of your Github repo
 1. OWASP staff will contact you to confirm the time to meet on Slack
 1. During the Slack meeting
   1. You'll be asked to go to the settings for the repo you want to transfrer
