@@ -30,6 +30,8 @@ Below are the steps required to get an existing repo listed in the OWASP Github 
   * [Amazon SNS](https://aws.amazon.com/sns/)
   * [Codeclimate](https://codeclimate.com/)
   * [Bountysource](https://www.bountysource.com/)
+* For older SSH keys, you may see an error when you git push.
+  * See "SSH Key workaround" at the bottom of this document
 
 ### Transfering to OWASP's Github Organization
 
@@ -88,8 +90,34 @@ You will be forwaded to a page about Team access, just click "Transfer" - you ca
 
 That's it, your repo will now be part of the OWASP Github org.  **Congrats!**
 
+### SSH Key Workaround
 
+If you get an error message like:
 
+```
+ERROR: Sorry, but @OWASP has blocked access to SSH keys created by some third-party applications. Your key was created before GitHub tracked keys created by applications, so we need your help.
+
+If you personally created this key, you can approve it at:
+
+  https://github.com/settings/ssh/audit/123456/policy
+
+Otherwise, please upload a new key:
+
+  https://github.com/settings/ssh
+
+Fingerprint: 15:axxxxxxxx:64
+
+[EPOLICYKEYAGE]
+
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+```
+
+You will need to follow that link (log into Github if not already) and approve the key.  Following that link, you'll see a web page similar to the one below:
+
+![Approve SSH Key](https://github.com/OWASP/owasp-projects-redux/raw/master/github-org/images/ssh-key-approve.png "Approve your previous SSH key if you uploaded it")
 
 
 
