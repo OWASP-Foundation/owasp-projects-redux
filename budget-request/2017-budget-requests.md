@@ -24,7 +24,7 @@
 1. [E-1] Discourse Yearly SaaS service  $2,600/year
 * * Why? Replace Mailman with a modern alterative provided as a SaaS
 1. [E-2] Salesforce consulting  $25,000
-* * Review our current Saleforce usage, create methods of deduplication, provide recommendations for optimizations
+* * Review our current Saleforce usage, create methods of deduplication, provide recommendations for optimizations.  Ensures TWR Phase 6 below is maxes ROI.
 
 ## Budget Requests for The Website Reboot (TWR)
 1. [E-3] TWR Phase 2: Wiki style updates $18,000
